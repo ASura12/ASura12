@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asura12&label=Profile%20views&color=0e75b6&style=flat" alt="asura12" /> </p>
 
-- 🌱 I’m currently learning **C++ and Computer Networks**
+- 🌱 I’m currently learning **C++ , Python and Ethical Hacking**
 
 - 👨‍💻 All of my projects are available at [https://github.co/ASuram12/ASura12/projects?query=is%3Aopen](https://github.co/ASuram12/ASura12/projects?query=is%3Aopen)
 
