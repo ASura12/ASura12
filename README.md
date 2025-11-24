@@ -1,80 +1,103 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/> I'm Ashish Pathak
-<h3 align="center">Engineering Student | Cybersecurity Enthusiast | Passionate About Building & Securing Applications</h3>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ASura12&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-- 🔭 Currently working on **Cybersecurity + Full-Stack + Automation Projects**
-- 🌱 Learning **Python, Java, JavaScript, CSS, Django, Ethical Hacking**
-- 💬 Ask me about **Cybersecurity, Python, Linux, or DSA**
-- 📫 Reach me at **ashishpathak1205@gmail.com**
-
----
-
-# 🛠️ Languages & Tools
-
-### 💻 Programming
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/></a>
-
-### 🌐 Web Development
-<a><img src="https://img.icons8.com/fluency/48/html-5.png" /></a>
-<a><img src="https://img.icons8.com/fluency/48/css3.png" /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48"/></a>
-
-### ⚙️ Backend / API
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="48"/></a>
-
-### 🗄 Databases
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/></a>
-
-### 🔐 Security & Tools
-<!-- Basic Tools -->
-<a><img src="https://img.icons8.com/color/48/lock--v1.png"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/></a>
-<a><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/></a>
-
----
-<!---
-# 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASura12&show_icons=true&theme=tokyonight" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ASura12&layout=compact&theme=tokyonight" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASura12&theme=tokyonight" />
-</div>
---->
-### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASura12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ASura12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-## 🔗 Connect With Me
-<a href="https://www.linkedin.com/in/ashish-pathak-92669a287/" target="_blank">
-  <img src="https://img.icons8.com/color/48/linkedin.png" />
-</a>
-<a href="mailto:ashishpathak1205@gmail.com" target="blank">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" />
-</a>
-<a href="https://github.com/ASura12" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/github.png" />
-</a>
+###
 
----
+<h1 align="center">hey there 👋</h1>
 
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Ashish Pathak from JIS College of Engineering<br><br>🔭 Currently working on Cybersecurity + Full-Stack + Automation Projects<br>🌱 Learning Python, Ethical Hacking<br>💬 Ask me about Cybersecurity, Python, Linux, or DSA<br>📫 Reach me at ashishpathak1205@gmail.com</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
+
+<h4 align="left">Web Development</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+</div>
+
+###
+
+<h4 align="left">Backend/API</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+</div>
+
+###
+
+<h4 align="left">Database</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h4 align="left">Security & Tools</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
