@@ -42,24 +42,6 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/></a>
 <a><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/></a>
 
-<!-- Security Tools (Fixed, Working Links) -->
-
-<!-- Nmap -->
-<a><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nmap.svg" width="48" title="Nmap"/></a>
-
-<!-- Wireshark -->
-<a><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/wireshark.svg" width="48" title="Wireshark"/></a>
-
-<!-- Burp Suite -->
-<a><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/burp-suite.svg" width="48" title="Burp Suite"/></a>
-
-<!-- Metasploit -->
-<a><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/metasploit.svg" width="48" title="Metasploit"/></a>
-
-<!-- AndroRAT -->
-<a><img src="https://raw.githubusercontent.com/TheDaryls/androrat/main/README/androrat.png" width="48" title="AndroRAT"/></a>
-
-
 ---
 
 # 📊 GitHub Stats
