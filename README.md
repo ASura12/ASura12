@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h4 align="left">Web Development</h4>
+<h3 align="left">Web Development</h3>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h4 align="left">Backend/API</h4>
+<h3 align="left">Backend/API</h3>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h4 align="left">Database</h4>
+<h3 align="left">Database</h3>
 
 ###
 
@@ -82,7 +82,7 @@
 
 ###
 
-<h4 align="left">Security & Tools</h4>
+<h3 align="left">Security & Tools</h3>
 
 ###
 
@@ -104,6 +104,11 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ASura12&show_icons=true&locale=en" alt="ASura12" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ASura12&show_icons=true&locale=en&layout=compact" alt="ASura12" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ASura12&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=0E8DE4&fire=012148B&ring=0E8DE4" alt="GitHub Streak Stats"/><br/><br/>
+</div>
 
 ###
