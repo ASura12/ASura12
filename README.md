@@ -104,11 +104,19 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left">🔥 My Stats:</h2>
+
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ASura12&show_icons=true&locale=en" alt="ASura12" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ASura12&show_icons=true&locale=en&layout=compact" alt="ASura12" /></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ASura12&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=0E8DE4&fire=012148B&ring=0E8DE4" alt="GitHub Streak Stats"/><br/><br/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ASura12&show_icons=true&theme=tokyonight&cache_seconds=7200" height="170" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ASura12&layout=compact&theme=tokyonight&cache_seconds=7200" height="170" />
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=ASura12&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="170" />
+
 </div>
 
 ###
