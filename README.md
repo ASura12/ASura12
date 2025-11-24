@@ -54,11 +54,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASura12&theme=tokyonight" />
 </div>
 --->
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASura12&show_icons=true&theme=tokyonight&cache_seconds=7200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASura12&layout=compact&theme=tokyonight&cache_seconds=7200" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ASura12&show_icons=true&theme=tokyonight" />
+  <br/><br/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ASura12&layout=compact&theme=tokyonight" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASura12&theme=tokyonight" />
 </p>
+
 
 ---
 
