@@ -65,7 +65,7 @@
 ---
 
 ## 🔗 Connect With Me
-<a href="https://www.linkedin.com/in/ashish-pathak-/" target="_blank">
+<a href="www.linkedin.com/in/ashish-pathak-92669a287" target="_blank">
   <img src="https://img.icons8.com/color/48/linkedin.png" />
 </a>
 <a href="mailto:ashishpathak1205@gmail.com" target="blank">
