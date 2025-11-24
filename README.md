@@ -33,7 +33,6 @@
 
 ### 🗄 Databases
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/></a>
 
 ### 🔐 Security & Tools
 <a><img src="https://img.icons8.com/color/48/lock--v1.png"/></a>
